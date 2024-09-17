@@ -48,6 +48,11 @@ An application for visualizing health-related data.
 Transcribes YouTube videos and allows users to interact with the transcribed content.
 
 
+## Running the Projects
+Each project can be run using Streamlit. For example, to run the "Chat with PDFs" project:
+"streamlit run chat_with_pdfs.py"
+Replace chat_with_pdfs.py with the appropriate script for the project you want to run.
+
 
 
 
